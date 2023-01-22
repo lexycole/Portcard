@@ -96,7 +96,7 @@ export default function OnboardingScreen({ navigation }: RootStackScreenProps<'O
 
       {/* Get Started Button */}
       <TouchableOpacity
-        onPress={() => navigation.navigate("SetUpYourWallet")}
+        onPress={() => navigation.navigate("SignUp")}
         style={tw`pt-[16px] pl-[15.4px] pb-[16px] pr-[15.4px] mx-[16px] mb-[48px] mt-[24px] rounded-[16px] bg-[#CDFB51]`}>
         <Text style={[tw`text-center text-[#242326] text-[16px]`, { fontFamily: 'Rubik_400Regular' }]}>Get Started</Text>
       </TouchableOpacity>
