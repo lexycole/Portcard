@@ -10,4 +10,10 @@ export const firebaseConfig = {
     storageBucket: "",
     messagingSenderId: "",
     appId: ""
+//     apiKey: "AIzaSyAFBozApe3ppMMDGt1i8xb-TOCsDByzvzQ",
+//     authDomain: "portcard-c5c21.firebaseapp.com",
+//     projectId: "portcard-c5c21",
+//     storageBucket: "portcard-c5c21.appspot.com",
+//     messagingSenderId: "108225657401",
+//     appId: "1:108225657401:web:931e41eeaa2389c3a76be8"
 };
