@@ -1,5 +1,4 @@
-# 💳Portcard
-# 💳 Next Generation Crypto Wallet
+# 💳Portcard: Next Generation Crypto Wallet
 
 # ✍️ About 
 This mobile app, named "Next Generation Crypto Wallet," offers a comprehensive solution for managing cryptocurrency assets efficiently and securely. 
@@ -180,4 +179,4 @@ Security Settings
 [Akinro Olawale](https://github.com/lexycole)
 
 # 🔖 Licence
-The project is available under the [MIT License](https://github.com/lexycole/Soul-Meet-Universe/blob/main/LICENSE).
+The project is available under the [MIT License](https://github.com/lexycole/Portcard/blob/main/LICENSE).
