@@ -1,32 +1,35 @@
 # Portcard
 Next Generation Crypto Wallet💳
 
+
 # 1. Splash screen
-![Screenshot_1680942650](https://user-images.githubusercontent.com/40228505/230914426-cb58256b-cba9-46ea-9d70-cc48e011e335.png)
-<img src="https://user-images.githubusercontent.com/40228505/230914426-cb58256b-cba9-46ea-9d70-cc48e011e335.png" width="200" height="500">
+<img src="https://user-images.githubusercontent.com/40228505/230914426-cb58256b-cba9-46ea-9d70-cc48e011e335.png" width="300" height="500">
 
 
 # 2. Onboarding screens
-![Screenshot_1680947267](https://user-images.githubusercontent.com/40228505/230914502-e559110f-ef14-4d94-abce-a30709ef654e.png)
-![Screenshot_1680962615](https://user-images.githubusercontent.com/40228505/230914551-cd083b44-40c4-45ea-b2fe-f4f07b49250a.png)
-![Screenshot_1680962645](https://user-images.githubusercontent.com/40228505/230914589-f1c0af89-36d1-4d40-9c93-28e49d31277f.png)
-![Screenshot_1680962658](https://user-images.githubusercontent.com/40228505/230914613-b4f39b5f-3de4-42e3-b706-fbd773a60e94.png)
+<img src="https://user-images.githubusercontent.com/40228505/230914502-e559110f-ef14-4d94-abce-a30709ef654e.png" width="300" height="500"> <img src="https://user-images.githubusercontent.com/40228505/230914551-cd083b44-40c4-45ea-b2fe-f4f07b49250a.png" width="300" height="500">
+<img src="https://user-images.githubusercontent.com/40228505/230914589-f1c0af89-36d1-4d40-9c93-28e49d31277f.png" width="300" height="500"> <img src="https://user-images.githubusercontent.com/40228505/230914613-b4f39b5f-3de4-42e3-b706-fbd773a60e94.png" width="300" height="500">
 
-# 3. Sign Up screen
-![Screenshot_1680962151](https://user-images.githubusercontent.com/40228505/230917558-28dba908-09fb-4a5b-8dba-d139fc302188.png)
 
-# 4. Login Screen
-![Screenshot_1680961963](https://user-images.githubusercontent.com/40228505/230917946-f0a08854-d6c0-46eb-b84a-dbedd3095ece.png)
+# 3. Sign Up screen with Javascript firebase authentication
+<img src="https://user-images.githubusercontent.com/40228505/230917558-28dba908-09fb-4a5b-8dba-d139fc302188.png" width="300" height="500">
+
+
+# 4. Login Screen with Javascript firebase authentication
+<img src="https://user-images.githubusercontent.com/40228505/230917946-f0a08854-d6c0-46eb-b84a-dbedd3095ece.png" width="300" height="500">
+
 
 # 5. Dashboard Tab
-![Screenshot_1680963111](https://user-images.githubusercontent.com/40228505/230918949-e846c32c-0e9e-4890-959a-0b628476b102.png)
+<img src="https://user-images.githubusercontent.com/40228505/230918949-e846c32c-0e9e-4890-959a-0b628476b102.png" width="300" height="500">
+
 
 # 6. Transaction history
-![Screenshot_1680962961](https://user-images.githubusercontent.com/40228505/230919060-05f62106-173a-48ed-9cf5-9a01716d288a.png)
+<img src="https://user-images.githubusercontent.com/40228505/230919060-05f62106-173a-48ed-9cf5-9a01716d288a.png" width="300" height="500">
+
 
 # 7. Spending History
-![Screenshot_1680962978](https://user-images.githubusercontent.com/40228505/230919165-b288455b-342b-4375-b244-f007d3162716.png)
-![Screenshot_1680963006](https://user-images.githubusercontent.com/40228505/230919204-aebcfcba-5b57-4b8a-96db-d96665359b92.png)
+<img src="https://user-images.githubusercontent.com/40228505/230919165-b288455b-342b-4375-b244-f007d3162716.png" width="300" height="500"> <img src="https://user-images.githubusercontent.com/40228505/230919204-aebcfcba-5b57-4b8a-96db-d96665359b92.png" width="300" height="500">
+
 
 # 8. Fund Wallet screen
 ![Screenshot_1680963022](https://user-images.githubusercontent.com/40228505/230919249-a80e15ca-6c47-4abb-a684-9a8fdc591b41.png)
