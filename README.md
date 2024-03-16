@@ -1,5 +1,9 @@
 # 💳Portcard: Next Generation Crypto Wallet
 
+[![Language](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Language](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)]()
+
+
 # ✍️ About 
 This mobile app, named "Next Generation Crypto Wallet," offers a comprehensive solution for managing cryptocurrency assets efficiently and securely. 
 1. **User-Friendly Onboarding**: The app starts with engaging splash screens followed by intuitive onboarding screens, ensuring a smooth and informative introduction to its features.
