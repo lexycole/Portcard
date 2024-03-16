@@ -3,6 +3,8 @@ Next Generation Crypto Wallet💳
 
 # 1. Splash screen
 ![Screenshot_1680942650](https://user-images.githubusercontent.com/40228505/230914426-cb58256b-cba9-46ea-9d70-cc48e011e335.png)
+<img src="https://user-images.githubusercontent.com/40228505/230914426-cb58256b-cba9-46ea-9d70-cc48e011e335.png" width="200" height="200">
+
 
 # 2. Onboarding screens
 ![Screenshot_1680947267](https://user-images.githubusercontent.com/40228505/230914502-e559110f-ef14-4d94-abce-a30709ef654e.png)
